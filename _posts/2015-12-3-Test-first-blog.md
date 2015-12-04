@@ -1,8 +1,9 @@
 ---
 title: Sunt in culpa qui
-featured: images/pic02.jpg
+featured: images/zycjwh.jpg
 layout: post
 ---
 
-<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h1>通知</h1>
+<p>自由城居委会由中谷苑社区管理</p>
+
